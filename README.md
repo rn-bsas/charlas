@@ -1,10 +1,7 @@
-# Charlas para Meetup.js [![Unite a nuestro Slack!](http://meetupjs.herokuapp.com/badge.svg)](http://meetupjs.herokuapp.com)
-Espacio para proponer las charlas a dar en los meetups de Javascript de [Meetup.js](http://www.meetup.com/Meetup-js/)
+# Charlas para React Native en Buenos Aires [Unite a nuestro Slack!](https://meetupjs.slack.com)
+Espacio para proponer las charlas a dar en los meetups de React Native de [Meetup.js](https://www.meetup.com/React-Native-en-Buenos-Aires/)
 
-(este repo esta basado en el de [BANodeJS](https://github.com/banodejs/charlas))
-
-# Formato de las charlas
-- Cada charla tiene una duración de 30 minutos. Sin embargo, se pueden evaluar excepciones.
+(Este repo está basado en el de [BANodeJS](https://github.com/banodejs/charlas))
 
 # Cómo
 Es fácil. Abrí un [issue](https://github.com/meetupjs-ar/charlas/issues) para proponer una charla.
@@ -16,6 +13,6 @@ Por favor compartí una URL a tus slides.
 Gracias!
 
 # Código de Conducta
-Encontralo [acá][1].
+Estamos elaborándolo. Va a ser muy similar al [original][1].
 
 [1]: https://github.com/meetupjs-ar/charlas/blob/master/CONDUCT.md
