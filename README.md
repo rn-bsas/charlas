@@ -1,4 +1,6 @@
-# Charlas para React Native en Buenos Aires [Unite a nuestro Slack!](https://meetupjs.slack.com)
+# Charlas para React Native en Buenos Aires  
+
+## [Unite a nuestro Slack!](https://meetupjs.slack.com)  
 Espacio para proponer las charlas a dar en los meetups de React Native de [Meetup.js](https://www.meetup.com/React-Native-en-Buenos-Aires/)
 
 (Este repo está basado en el de [BANodeJS](https://github.com/banodejs/charlas))
