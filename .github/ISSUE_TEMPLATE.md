@@ -21,4 +21,6 @@ Tenes la charla preparada?
 
 En qué mes la podrías dar?
 
+Necesitás un lugar para poder hostear la charla?
+
 Avisanos si necesitas algo especial para poder dar la charla así lo podemos planificar con tiempo.
